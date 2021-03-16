@@ -1,2 +1,2 @@
 # CSSPractice
-It's just CSS practice.
+It's just HTML/CSS practice.
